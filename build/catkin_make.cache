@@ -1,0 +1,2 @@
+joy2bot:rosaria:rplidar_ros
+-DCATKIN_DEVEL_PREFIX=/home/cona/ROS2CoNA/devel -DCMAKE_INSTALL_PREFIX=/home/cona/ROS2CoNA/install -G Unix Makefiles
